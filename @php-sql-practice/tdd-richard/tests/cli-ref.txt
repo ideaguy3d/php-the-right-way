@@ -1,0 +1,45 @@
+
+
+To invoke a test from the command line:
+
+$ .\vendor\bin\phpunit --bootstrap .\vendor\autoload.php --verbose .\tests\LoanOfficerDelegateTest.php --colors=always
+
+OR "w/ --testdox"
+
+$ .\vendor\bin\phpunit --bootstrap .\vendor\autoload.php --testdox tests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//

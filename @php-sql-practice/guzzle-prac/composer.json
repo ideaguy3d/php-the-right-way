@@ -1,0 +1,14 @@
+{
+	"autoload": {
+		"psr-4": {
+			"MhetaClient\\": [
+				"src",
+				"test/lib"
+			]
+		}
+	},
+	"require": {
+		"guzzlehttp/guzzle": "~6.0",
+		"ktamas77/firebase-php": "^2.2"
+	}
+}

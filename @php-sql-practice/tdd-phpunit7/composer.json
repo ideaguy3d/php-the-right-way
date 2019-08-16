@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "php": ">=7.2.0",
+        "ext-pdo": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
